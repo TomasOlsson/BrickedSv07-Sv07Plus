@@ -43,31 +43,32 @@ Remove your USB stick from the computer when it's done.
 
     And press Open
 
-3. An black window will pop up if you press enter you will be prompted to enter login
+   ![Screen](https://github.com/TomasOlsson/BrickedSv07-Sv07Plus/blob/main/img/Screenshot%202023-09-07%20125846.png?raw=true)
+
+4. An black window will pop up if you press enter you will be prompted to enter login
 
     Username: `mks`
 
     Password: `makerbase`
 
+![Screen](https://github.com/TomasOlsson/BrickedSv07-Sv07Plus/blob/main/img/putty_Z96vKxGe1Y.gif?raw=true)
 
-
-
-4. Login as root
+5. Login as root
     `sudo su`
 
     Enter `makerbase` as password.
 
     Press enter
 
-5. Kill the eMMC with `dd if=/dev/null of=/dev/mmcblk1 status=progress` (It’s just writing over it not killing it :P)
+6. Kill the eMMC with `dd if=/dev/null of=/dev/mmcblk1 status=progress` (It’s just writing over it not killing it :P)
 
-6. Insert the USB stick in the right corner of the printer screen. 
+7. Insert the USB stick in the right corner of the printer screen. 
 
-7. Write `reboot` into PuTTY when you're done.
+8. Write `reboot` into PuTTY when you're done.
 
-8. If you get the “Your languages”- screen. Do steps 1 to 4 and go to step 9 when you're logged in. And DO NOT set up your printer yet. 
+9. If you get the “Your languages”- screen. Do steps 1 to 4 and go to step 9 when you're logged in. And DO NOT set up your printer yet. 
 
-9. Time to move all the things on the USB stick to you eMMC
+10. Time to move all the things on the USB stick to you eMMC
 
     1. Check what's you USB sticks called: write lsblk and press enter
 
