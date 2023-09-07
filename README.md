@@ -83,3 +83,5 @@ Remove your USB stick from the computer when it's done.
     5. When it's done, remove the USB stick from the screen and pull the power cord.
 
     6. Put the power cord in and enjoy printing again.
+   
+If you have the Sv07(not plus) you gonna need to upload a new printer.cfg.
