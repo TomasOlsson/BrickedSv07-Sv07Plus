@@ -28,6 +28,8 @@ Press flash and take a break.
 Process should finish in a few minutes.
 Remove your USB stick from the computer when it's done.
 
+![Screen](https://github.com/TomasOlsson/BrickedSv07-Sv07Plus/blob/main/img/balenaEtcher_phC1PLwiCu.gif?raw=true)
+
 
 # Prepering the screen
 
