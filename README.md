@@ -33,7 +33,7 @@ Remove your USB stick from the computer when it's done.
 ![Screen](https://github.com/TomasOlsson/BrickedSv07-Sv07Plus/blob/main/img/balenaEtcher_phC1PLwiCu.gif?raw=true)
 
 
-# Prepering the screen
+# Preparing the screen
 
 1. Insert the USB Type-C cable into your printer and the USB A end into your computer. Make sure that the printer is powered on. Windows users should hear a sound indicating that the device has been connected. If you do not hear this sound, try using a different cable until you find one that works.
 
