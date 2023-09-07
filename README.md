@@ -66,7 +66,7 @@ Remove your USB stick from the computer when it's done.
 
 7. Insert the USB stick in the right corner of the printer screen. 
 
-8. Write `reboot` into PuTTY when you're done.
+8. Write `reboot` into PuTTY when you're done. Or just pull the plug on it. Don´t forget to plug it back after few second. :)
 
 9. If you get the “Your languages”- screen. Do steps 1 to 4 and go to step 9 when you're logged in. And DO NOT set up your printer yet. 
 
