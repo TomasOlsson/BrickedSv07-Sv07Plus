@@ -2,7 +2,9 @@
 
 # What you need:
 USB A to USB Type-c cable (Old charging cable might NOT work)
+
 USB memory stick/USB to sd adapter (16gb+)
+
 Basic knowledge about Linux/SSH usage
 
 # Software:
